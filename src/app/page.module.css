@@ -6,6 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.tasks-lists {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
 
 .description {
   display: inherit;
